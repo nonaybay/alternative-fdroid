@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1647625629000,
+    "timestamp": 1647625672000,
     "version": 20000,
     "name": "NoNayBay - Alternative Repo",
     "icon": "icon.png",
@@ -37,7 +37,7 @@
         "NoNayBay Alternative Repo"
       ],
       "suggestedVersionCode": "40190",
-      "license": "GPL-3.0-or-later",
+      "license": "Unknown",
       "webSite": "http://www.netflix.com/",
       "added": 1647625080000,
       "packageName": "com.netflix.mediaclient",
