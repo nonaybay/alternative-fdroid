@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1647624738000,
+    "timestamp": 1647625085000,
     "version": 20000,
     "name": "NoNayBay - Alternative Repo",
     "icon": "icon.png",
@@ -22,9 +22,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Droid-ify",
-      "added": 1647624738000,
+      "added": 1647625085000,
       "packageName": "com.looker.droidify",
-      "lastUpdated": 1647624738000
+      "lastUpdated": 1647625085000
     },
     {
       "categories": [
@@ -33,15 +33,15 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Netflix",
-      "added": 1647624737000,
+      "added": 1647625080000,
       "packageName": "com.netflix.mediaclient",
-      "lastUpdated": 1647624737000
+      "lastUpdated": 1647625084000
     }
   ],
   "packages": {
     "com.looker.droidify": [
       {
-        "added": 1647624738000,
+        "added": 1647625085000,
         "apkName": "droidify-release.apk",
         "hash": "f2a264e6b252af8f92f206f85abc9894738944a274bc9472b12721213e714422",
         "hashType": "sha256",
@@ -87,7 +87,107 @@
     ],
     "com.netflix.mediaclient": [
       {
-        "added": 1647624737000,
+        "added": 1647625084000,
+        "apkName": "com.netflix.mediaclient.40190.apk",
+        "hash": "05aca9b58be9bd8c91c67cdd690f58c057b3ba9a74192181612d1df4cc11bec3",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.netflix.mediaclient",
+        "sig": "62a95a11f014be663a8383335b972d7f",
+        "signer": "363863596ea99241eb71b1a985553aa604de3ea3c5f0c546742390e682164e6b",
+        "size": 87750268,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "com.netflix.partner.activation.permission.CHANNEL_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.amazon.permission.SET_FLAG_NOSOFTKEYS",
+            null
+          ],
+          [
+            "com.netflix.nfgsdk.permission.ngpstore",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ]
+        ],
+        "versionCode": 40190,
+        "versionName": "8.22.0 build 17 40190"
+      },
+      {
+        "added": 1647625080000,
         "apkName": "com.netflix.mediaclient.40188.apk",
         "hash": "59efbfcd128e426887b2740adfa1dbfa67b73d0e4f5a4aaca8f29a07deca954f",
         "hashType": "sha256",
