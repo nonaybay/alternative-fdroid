@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1647625085000,
+    "timestamp": 1647625629000,
     "version": 20000,
     "name": "NoNayBay - Alternative Repo",
     "icon": "icon.png",
@@ -27,15 +27,27 @@
       "lastUpdated": 1647625085000
     },
     {
+      "authorEmail": "playstore@netflix.com",
+      "authorName": "Netflix, Inc.",
+      "authorWebSite": "http://www.netflix.com/",
       "categories": [
-        "Alternative"
+        "Multimedia",
+        "Entertainment",
+        "Not Open Source",
+        "NoNayBay Alternative Repo"
       ],
-      "suggestedVersionCode": "2147483647",
-      "license": "Unknown",
-      "name": "Netflix",
+      "suggestedVersionCode": "40190",
+      "license": "GPL-3.0-or-later",
+      "webSite": "http://www.netflix.com/",
       "added": 1647625080000,
       "packageName": "com.netflix.mediaclient",
-      "lastUpdated": 1647625084000
+      "lastUpdated": 1647625084000,
+      "localized": {
+        "en-US": {
+          "description": "Netflix is the world\u2019s leading subscription service for watching TV episodes and movies on your favorite device.\n\nGet this free application as a part of your Netflix membership and you can instantly watch thousands of TV episodes & movies on your Android TV device.\n\nIf you are not a Netflix member sign up for Netflix and start enjoying immediately with our one-month free trial.\n\nHow does Netflix work?\n\u2022 Netflix membership gives you access to unlimited TV shows and movies for a low monthly price.\n\u2022 With the Netflix app you can instantly watch as many TV episodes & movies as you want, as often as you want, anytime you want.\n\u2022 You can Browse a growing selection of thousands of titles, and new episodes that are added regularly.\n\u2022 Search for titles and watch immediately on your Android TV device or on an ever expanding list of supported devices.\n\u2022 Rate your favorite shows and movies and tell us what you like so Netflix can help suggest the best titles for you.\n\u2022 Start watching on one device, and resume watching on another. Check out netflix.com for all the TVs, game consoles, tablets, phones, Blu-ray players and set top boxes on which you can watch Netflix.\n\nBy selecting INSTALL, you consent to the installation of the Netflix application and any updates or upgrades thereto.\n\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n\nNetflix\n\nLicense Agreement\n\nBy downloading this application you agree to the Netflix Terms of Use and Privacy Policy, located at www.netflix.com\n\n1-month free Netflix membership offer is available to first time and certain former members and cannot be combined with any other offer. Internet access and valid payment method are required to redeem offer. Netflix will begin to bill your payment method for the Netflix membership fee at the end of the free month unless you cancel prior to the end of the first month. Your Netflix membership is a month-to-month subscription that you can cancel at any time. Go to \"Your Account\" on the Netflix website for cancellation instructions. No refund or credit for partial monthly subscription periods. A device that streams from Netflix (manufactured and sold separately) and broadband Internet connection are required to watch instantly.\n\nFor complete terms and conditions, please visit http://www.netflix.com/TermsOfUse.\nFor privacy policy, please visit https://signup.netflix.com/PrivacyPolicy.",
+          "name": "Netflix"
+        }
+      }
     }
   ],
   "packages": {

@@ -2,13 +2,12 @@
   "antiFeatures": {},
   "commandLine": [
     "/usr/bin/fdroid update",
-    "--clean",
     "--create-metadata",
     "--pretty",
     "--verbose"
   ],
   "disabled": [],
-  "endTimestamp": 1647625091710,
+  "endTimestamp": 1647625631403,
   "failedBuilds": {},
   "noPackages": [
     "com.looker.droidify",
@@ -18,6 +17,6 @@
     "com.saggitt.omega.neo",
     "com.saggitt.omega"
   ],
-  "startTimestamp": 1647635870000,
+  "startTimestamp": 1647636428000,
   "subcommand": "update"
 }
