@@ -1,8 +1,11 @@
 {
   "commandLine": [
-    "/usr/bin/fdroid deploy",
-    "-v"
+    "/usr/bin/fdroid update",
+    "--clean",
+    "--create-metadata",
+    "--pretty",
+    "--verbose"
   ],
-  "startTimestamp": 1647497060000,
-  "subcommand": "deploy"
+  "startTimestamp": 1647635530000,
+  "subcommand": "update"
 }

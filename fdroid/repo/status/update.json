@@ -1,1 +1,23 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","-c"],"disabled":[],"endTimestamp":1647486259752,"failedBuilds":{},"noPackages":["com.looker.droidify"],"startTimestamp":1647497055000,"subcommand":"update"}
+{
+  "antiFeatures": {},
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "--clean",
+    "--create-metadata",
+    "--pretty",
+    "--verbose"
+  ],
+  "disabled": [],
+  "endTimestamp": 1647624742274,
+  "failedBuilds": {},
+  "noPackages": [
+    "com.looker.droidify",
+    "com.netflix.mediaclient",
+    "com.saggitt.omega.alpha",
+    "com.saggitt.omega.dev",
+    "com.saggitt.omega.neo",
+    "com.saggitt.omega"
+  ],
+  "startTimestamp": 1647635530000,
+  "subcommand": "update"
+}

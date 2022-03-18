@@ -1,1 +1,191 @@
-{"repo": {"timestamp": 1647486257000, "version": 20000, "name": "NoNayBay - Alternative Repo", "icon": "icon.png", "address": "https://github.com/nonaybay/alternative-fdroid", "description": "no description for now, sorry.", "mirrors": ["https://raw.githubusercontent.com/nonaybay/alternative-fdroid/master/fdroid/repo"]}, "requests": {"install": [], "uninstall": []}, "apps": [{"categories": ["Alternative"], "suggestedVersionCode": "2147483647", "license": "Unknown", "name": "Droid-ify", "added": 1647486257000, "packageName": "com.looker.droidify", "lastUpdated": 1647486257000}], "packages": {"com.looker.droidify": [{"added": 1647486257000, "apkName": "droidify-release.apk", "hash": "f2a264e6b252af8f92f206f85abc9894738944a274bc9472b12721213e714422", "hashType": "sha256", "minSdkVersion": 21, "packageName": "com.looker.droidify", "sig": "7f4006a713608d145fd220a3e24939ec", "signer": "f242fb54ac424acb995b801b8da02c83a0a118386047c5c0dc48136a6c937c9a", "size": 3624617, "targetSdkVersion": 31, "uses-permission": [["android.permission.INTERNET", null], ["android.permission.FOREGROUND_SERVICE", null], ["android.permission.RECEIVE_BOOT_COMPLETED", null], ["android.permission.REQUEST_INSTALL_PACKAGES", null], ["android.permission.REQUEST_DELETE_PACKAGES", null], ["android.permission.QUERY_ALL_PACKAGES", null], ["android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION", null]], "versionCode": 43, "versionName": "0.4.3"}]}}
+{
+  "repo": {
+    "timestamp": 1647624738000,
+    "version": 20000,
+    "name": "NoNayBay - Alternative Repo",
+    "icon": "icon.png",
+    "address": "https://github.com/nonaybay/alternative-fdroid",
+    "description": "no description for now, sorry.",
+    "mirrors": [
+      "https://raw.githubusercontent.com/nonaybay/alternative-fdroid/master/fdroid/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "categories": [
+        "Alternative"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Droid-ify",
+      "added": 1647624738000,
+      "packageName": "com.looker.droidify",
+      "lastUpdated": 1647624738000
+    },
+    {
+      "categories": [
+        "Alternative"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Netflix",
+      "added": 1647624737000,
+      "packageName": "com.netflix.mediaclient",
+      "lastUpdated": 1647624737000
+    }
+  ],
+  "packages": {
+    "com.looker.droidify": [
+      {
+        "added": 1647624738000,
+        "apkName": "droidify-release.apk",
+        "hash": "f2a264e6b252af8f92f206f85abc9894738944a274bc9472b12721213e714422",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.looker.droidify",
+        "sig": "7f4006a713608d145fd220a3e24939ec",
+        "signer": "f242fb54ac424acb995b801b8da02c83a0a118386047c5c0dc48136a6c937c9a",
+        "size": 3624617,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "0.4.3"
+      }
+    ],
+    "com.netflix.mediaclient": [
+      {
+        "added": 1647624737000,
+        "apkName": "com.netflix.mediaclient.40188.apk",
+        "hash": "59efbfcd128e426887b2740adfa1dbfa67b73d0e4f5a4aaca8f29a07deca954f",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.netflix.mediaclient",
+        "sig": "62a95a11f014be663a8383335b972d7f",
+        "signer": "363863596ea99241eb71b1a985553aa604de3ea3c5f0c546742390e682164e6b",
+        "size": 87852764,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "com.netflix.partner.activation.permission.CHANNEL_ID",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.amazon.permission.SET_FLAG_NOSOFTKEYS",
+            null
+          ],
+          [
+            "com.netflix.nfgsdk.permission.ngpstore",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ]
+        ],
+        "versionCode": 40188,
+        "versionName": "8.22.0 build 10 40188"
+      }
+    ]
+  }
+}
