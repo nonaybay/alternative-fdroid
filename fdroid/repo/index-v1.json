@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1647625799000,
+    "timestamp": 1647659711000,
     "version": 20000,
     "name": "NoNayBay - Alternative Repo",
     "icon": "icon.png",
@@ -49,6 +49,18 @@
           "name": "Netflix"
         }
       }
+    },
+    {
+      "categories": [
+        "Alternative"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "WhatsApp",
+      "added": 1647659711000,
+      "icon": "com.whatsapp.220673000.png",
+      "packageName": "com.whatsapp",
+      "lastUpdated": 1647659711000
     }
   ],
   "packages": {
@@ -298,6 +310,280 @@
         ],
         "versionCode": 40188,
         "versionName": "8.22.0 build 10 40188"
+      }
+    ],
+    "com.whatsapp": [
+      {
+        "added": 1647659711000,
+        "apkName": "com.whatsapp.220673000.apk",
+        "hash": "fc7ed6f5e39afa356d75060292b385208947a9a6f2ef2341d31832a4e173074e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.whatsapp",
+        "sig": "42cff4edb5fd4307f4aabe5e63d17f00",
+        "signer": "3987d043d10aefaf5a8710b3671418fe57e0e19b653c9df82558feb5ffce5d44",
+        "size": 49246157,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_SMS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_STICKY",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_STATS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.SEND_SMS",
+            null
+          ],
+          [
+            "android.permission.USE_CREDENTIALS",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.whatsapp.permission.BROADCAST",
+            null
+          ],
+          [
+            "com.whatsapp.permission.MAPS_RECEIVE",
+            null
+          ],
+          [
+            "com.whatsapp.permission.REGISTRATION",
+            null
+          ],
+          [
+            "com.whatsapp.sticker.READ",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "com.facebook.services.identity.FEO2",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.ANSWER_PHONE_CALLS",
+            null
+          ],
+          [
+            "android.permission.READ_CALL_LOG",
+            null
+          ]
+        ],
+        "versionCode": 220673000,
+        "versionName": "2.22.6.73"
       }
     ]
   }
