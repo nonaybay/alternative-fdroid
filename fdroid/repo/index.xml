@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="NoNayBay - Alternative Repo" pubkey="308204e5308202cda003020102020412249bd2300d06092a864886f70d01010b050030233110300e060355040b1307462d44726f6964310f300d0603550403130664656269616e301e170d3232303331373032343035355a170d3439303830323032343035355a30233110300e060355040b1307462d44726f6964310f300d0603550403130664656269616e30820222300d06092a864886f70d01010105000382020f003082020a02820201009ccd0324291c8c946fb18fea8d0a0785772b8c6e62dd8aeef3885e6d99d755a6b3f63cc16ba9a729c36280e1f2a25f14c5d2766c6ebb259178c74076aff90c72cd263d575ec167f9719826146e474c38668084aace17dcb1e4c479812df86648dddfd928e87e7dbdf06c9e77348f80e2e20a6263be14e891d1e031b9475750e9c0c5e2e6efd77dadb798740a2f812253d89512ab959bb35873b9506b0a8eb8d61235c039051ab0054cbf42d63d6f173ad7144cc59f9cad611ffc060b45515ab20f4a860c469fcfbd79cc0e8fea37bff837d54e196f40928f5171c0ea28badf36ab0997ab9216bee349cf2c68dfee25bdaeb75160e2c82f12ca25404bbe7d55cd12dceb98a6dff0b471fa60946b68cf2e41786921c79374e366bf08a917441f763fd9d44e4106e813eeb73f0e72bdc0928824c35561116fb75bdd6728f3ed4476df5bfec462805b07cb27d892f6cd7c417fbfdb95588d43f83e39f8ceae498781a7d0c552ab3d92228917d07ea4da7f72e73f33723a49ba862ef3838b7d14f4ca29ab9f5df1521f206e06f1f02c87fe86304f6e2598b53a04fc31c1a55aa021eb14d19cce50cceeb9a2084b1e1d189332ba8e195a8f73b94a8a90df9d1ae52c46cbba3e2e51dafb30842fc9723914650c228e7d51249bfa51573d6e9551fa5021808402c30d55b87f18c529288dcadc44b9645f3bd7e271f1a1a5a97a4104fceb0203010001a321301f301d0603551d0e04160414deb3dfc7876c3c2fde64882b72c9ad50e49c434a300d06092a864886f70d01010b050003820201000ef125068ff7775938539d74bc17d917dc46b70f5e113e22153962f54a7cbebe99223f93ae68839d238843fe0f08c09275a3af976bd6667eb44ccaeed42e5ceda3a29d2871370524adbdbf1910884157d88ca7f93d397fd2cd3be9f8ee4d1d7e8f5a8cf57a13c5958754050ee68807276fbc4c6c09b466bfb3038cb0c6b223524fdaab5c7fa2b5853358281f1a9aa55833894f5f086b17f6983025801442a3aab4e612bf74ffd2799ddee5035e2320df0d42452aebcf141008eba7303bdb61739c2b8486f7507157af6bfa5f964a36c92fd77fb2fc8b938a9a3bd9f9db5296078456f954ba04786f1ebeaf79783e81b0b612e6c4676df6a455cb93fde7c0f9943820e6582db8fac6f16c59bd8842bf9cb2787bc92465cbe5f64fe6efde332f92a4e1098703d6b5e87d6871dada4495d2247d57988ecd5a3158dbb4940bbab5fbf4c8579dbb41e333fea76bf05349bcb0f4735a16117885ff08b36041770b4794d2edec0a6998f7e22ba7466af62f5bb58f0dc39e51457561b19a2ca1842b6c4a829fb70d3e82b4bd6968f0e400313f979f833b03466ce493772160c8501b864b383e6332b364743b313c9927b3e38d4439d467bbaa95728db2c56f66c8eebb6852118d8d9d5a9f2caba2e1a74dd46c29d1d784e069b9f06164e5b56eebb782532e592ee80074b333a1ed1ae201b9f043a094d72529ba5ed04c6bddf8cad8293e" timestamp="1647661212" url="https://github.com/nonaybay/alternative-fdroid" version="20000">
+	<repo icon="icon.png" name="NoNayBay - Alternative Repo" pubkey="308204e5308202cda003020102020412249bd2300d06092a864886f70d01010b050030233110300e060355040b1307462d44726f6964310f300d0603550403130664656269616e301e170d3232303331373032343035355a170d3439303830323032343035355a30233110300e060355040b1307462d44726f6964310f300d0603550403130664656269616e30820222300d06092a864886f70d01010105000382020f003082020a02820201009ccd0324291c8c946fb18fea8d0a0785772b8c6e62dd8aeef3885e6d99d755a6b3f63cc16ba9a729c36280e1f2a25f14c5d2766c6ebb259178c74076aff90c72cd263d575ec167f9719826146e474c38668084aace17dcb1e4c479812df86648dddfd928e87e7dbdf06c9e77348f80e2e20a6263be14e891d1e031b9475750e9c0c5e2e6efd77dadb798740a2f812253d89512ab959bb35873b9506b0a8eb8d61235c039051ab0054cbf42d63d6f173ad7144cc59f9cad611ffc060b45515ab20f4a860c469fcfbd79cc0e8fea37bff837d54e196f40928f5171c0ea28badf36ab0997ab9216bee349cf2c68dfee25bdaeb75160e2c82f12ca25404bbe7d55cd12dceb98a6dff0b471fa60946b68cf2e41786921c79374e366bf08a917441f763fd9d44e4106e813eeb73f0e72bdc0928824c35561116fb75bdd6728f3ed4476df5bfec462805b07cb27d892f6cd7c417fbfdb95588d43f83e39f8ceae498781a7d0c552ab3d92228917d07ea4da7f72e73f33723a49ba862ef3838b7d14f4ca29ab9f5df1521f206e06f1f02c87fe86304f6e2598b53a04fc31c1a55aa021eb14d19cce50cceeb9a2084b1e1d189332ba8e195a8f73b94a8a90df9d1ae52c46cbba3e2e51dafb30842fc9723914650c228e7d51249bfa51573d6e9551fa5021808402c30d55b87f18c529288dcadc44b9645f3bd7e271f1a1a5a97a4104fceb0203010001a321301f301d0603551d0e04160414deb3dfc7876c3c2fde64882b72c9ad50e49c434a300d06092a864886f70d01010b050003820201000ef125068ff7775938539d74bc17d917dc46b70f5e113e22153962f54a7cbebe99223f93ae68839d238843fe0f08c09275a3af976bd6667eb44ccaeed42e5ceda3a29d2871370524adbdbf1910884157d88ca7f93d397fd2cd3be9f8ee4d1d7e8f5a8cf57a13c5958754050ee68807276fbc4c6c09b466bfb3038cb0c6b223524fdaab5c7fa2b5853358281f1a9aa55833894f5f086b17f6983025801442a3aab4e612bf74ffd2799ddee5035e2320df0d42452aebcf141008eba7303bdb61739c2b8486f7507157af6bfa5f964a36c92fd77fb2fc8b938a9a3bd9f9db5296078456f954ba04786f1ebeaf79783e81b0b612e6c4676df6a455cb93fde7c0f9943820e6582db8fac6f16c59bd8842bf9cb2787bc92465cbe5f64fe6efde332f92a4e1098703d6b5e87d6871dada4495d2247d57988ecd5a3158dbb4940bbab5fbf4c8579dbb41e333fea76bf05349bcb0f4735a16117885ff08b36041770b4794d2edec0a6998f7e22ba7466af62f5bb58f0dc39e51457561b19a2ca1842b6c4a829fb70d3e82b4bd6968f0e400313f979f833b03466ce493772160c8501b864b383e6332b364743b313c9927b3e38d4439d467bbaa95728db2c56f66c8eebb6852118d8d9d5a9f2caba2e1a74dd46c29d1d784e069b9f06164e5b56eebb782532e592ee80074b333a1ed1ae201b9f043a094d72529ba5ed04c6bddf8cad8293e" timestamp="1647661611" url="https://github.com/nonaybay/alternative-fdroid" version="20000">
 		<description>no description for now, sorry.</description>
 		<mirror>https://raw.githubusercontent.com/nonaybay/alternative-fdroid/master/fdroid/repo</mirror>
 	</repo>
@@ -30,6 +30,521 @@
 			<added>2022-03-18</added>
 			<sig>7f4006a713608d145fd220a3e24939ec</sig>
 			<permissions>FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION</permissions>
+		</package>
+	</application>
+	<application id="com.saggitt.omega">
+		<id>com.saggitt.omega</id>
+		<added>2022-03-19</added>
+		<lastupdated>2022-03-19</lastupdated>
+		<name>Neo Launcher</name>
+		<summary>Your powerful libre launcher with a lot of smart features.</summary>
+		<desc>Your powerful libre launcher with a lot of smart features.
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Theming,Launcher,Omega Launcher and Friends (old),Neo Applications</categories>
+		<category>Theming</category>
+		<web></web>
+		<source>https://github.com/otakuhqz/Omega</source>
+		<tracker>https://github.com/otakuhqz/Omega/issues</tracker>
+		<author>Saul Henriquez</author>
+		<email>saul_henriquez@hotmail.com</email>
+		<marketversion></marketversion>
+		<marketvercode>280</marketvercode>
+		<package>
+			<version>0.8.1</version>
+			<versioncode>280</versioncode>
+			<apkname>com.saggitt.omega.280.apk</apkname>
+			<hash type="sha256">a2a6a30931dbc0669031abb77d39dd0ec2ad28b9c1a3c780fc3b063e497fe605</hash>
+			<size>12978771</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,SYSTEM_ALERT_WINDOW,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.HOTSEAT_EDU,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.8.0</version>
+			<versioncode>168</versioncode>
+			<apkname>com.saggitt.omega.168.apk</apkname>
+			<hash type="sha256">369c2dcaf2459504634f213f7d849c07ef07b8a1cab2a17b211aa14e2a298c26</hash>
+			<size>9805466</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.HOTSEAT_EDU,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.7.1</version>
+			<versioncode>118</versioncode>
+			<apkname>com.saggitt.omega.118.apk</apkname>
+			<hash type="sha256">0804015270e0abdc6d85099b159c86b7bb20f3ebbabf28416d4970c8c626a492</hash>
+			<size>8071115</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+		</package>
+		<package>
+			<version>0.7.0</version>
+			<versioncode>115</versioncode>
+			<apkname>com.saggitt.omega.115.apk</apkname>
+			<hash type="sha256">b2317ac6c9a60ba2bdc9fc5a0e146347c37a7b9a020054613b35f51c536c6e4c</hash>
+			<size>8029968</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+		</package>
+		<package>
+			<version>0.6.3</version>
+			<versioncode>113</versioncode>
+			<apkname>com.saggitt.omega.113.apk</apkname>
+			<hash type="sha256">5bac598839de70181741683ae4fc47defda79d4930df8dcf8b8b8aec0df3eeff</hash>
+			<size>7964074</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+		</package>
+		<package>
+			<version>0.6.2</version>
+			<versioncode>98</versioncode>
+			<apkname>com.saggitt.omega.98.apk</apkname>
+			<hash type="sha256">525bdb25f023ef33c0e9d99611c299cc72e46e38d07f71b5be18a9165156b0f9</hash>
+			<size>8469855</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.QSB,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.6.1</version>
+			<versioncode>96</versioncode>
+			<apkname>com.saggitt.omega.96.apk</apkname>
+			<hash type="sha256">56eaa172d5857bdb08c909ec16d52ee74bc3d7a6dc09836b7b665b99b766eff9</hash>
+			<size>8211773</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.QSB,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.6.0</version>
+			<versioncode>95</versioncode>
+			<apkname>com.saggitt.omega.95.apk</apkname>
+			<hash type="sha256">0c3f4386bbf21052e2f33ce648ab7ea5da328cab05f9b5e83a1d91bfb1a55fc1</hash>
+			<size>8207121</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.QSB,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.5.3</version>
+			<versioncode>67</versioncode>
+			<apkname>com.saggitt.omega.67.apk</apkname>
+			<hash type="sha256">fc76feb9c6c81aee87267cb72cbc5c662716b9e32ff6b620f45832fa73085ad7</hash>
+			<size>8154770</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.5.1</version>
+			<versioncode>43</versioncode>
+			<apkname>com.saggitt.omega.43.apk</apkname>
+			<hash type="sha256">2b120baa4661f93c15a40c6cd531f12ed2f426e568f6a3b92d944d29a366c284</hash>
+			<size>7459642</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INTERACT_ACROSS_USERS,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WRITE_SECURE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.5.0</version>
+			<versioncode>40</versioncode>
+			<apkname>com.saggitt.omega.40.apk</apkname>
+			<hash type="sha256">bbeee9c52492cbb143328faced4fae4d700c72a4712eadd0f4db16cc05dc05b9</hash>
+			<size>7451450</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INTERACT_ACROSS_USERS,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WRITE_SECURE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.QSB,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>32</versioncode>
+			<apkname>com.saggitt.omega.32.apk</apkname>
+			<hash type="sha256">74799a8603636ee8498cb8975aeef858466f8743893948491aface074e5d606b</hash>
+			<size>8078898</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,FORCE_STOP_PACKAGES,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WAKE_LOCK,WRITE_SECURE_SETTINGS,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.4.0</version>
+			<versioncode>25</versioncode>
+			<apkname>com.saggitt.omega.25.apk</apkname>
+			<hash type="sha256">b870fe0a29e9abf7c258194d7ee79ec19fcb7bd09619fe7e9c7d09ace674a171</hash>
+			<size>7360241</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,FORCE_STOP_PACKAGES,INTERACT_ACROSS_USERS,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WRITE_SECURE_SETTINGS,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.3.0</version>
+			<versioncode>20</versioncode>
+			<apkname>com.saggitt.omega.20.apk</apkname>
+			<hash type="sha256">23fa59fa24a4607a0c24c18535ea82c2c7b2198ca31efe2f7628c8751b49d5d2</hash>
+			<size>7219385</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>ACCESS_COARSE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,FORCE_STOP_PACKAGES,INTERACT_ACROSS_USERS,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WRITE_SECURE_SETTINGS,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.2.0</version>
+			<versioncode>11</versioncode>
+			<apkname>com.saggitt.omega.11.apk</apkname>
+			<hash type="sha256">1bed007d40a21150dccc6d8c38fe3fc644f68c0befe7f3e140aa17a378fba41c</hash>
+			<size>6177154</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,FORCE_STOP_PACKAGES,INTERACT_ACROSS_USERS,MANAGE_DEVICE_ADMINS,MANAGE_USERS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WRITE_SECURE_SETTINGS,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.2.0</version>
+			<versioncode>10</versioncode>
+			<apkname>com.saggitt.omega.10.apk</apkname>
+			<hash type="sha256">010c033a06fef8a5c0cf11122686a3c76d8fa9f61ebcb2acb2fc634aa106e710</hash>
+			<size>6309632</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,FORCE_STOP_PACKAGES,INTERACT_ACROSS_USERS,MANAGE_DEVICE_ADMINS,MANAGE_USERS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WRITE_SECURE_SETTINGS,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.2.0</version>
+			<versioncode>6</versioncode>
+			<apkname>com.saggitt.omega.6.apk</apkname>
+			<hash type="sha256">d854e7642a989bab79fac0224d8ff5b83351ba6c2bed730c8ffa55054d928e1a</hash>
+			<size>5640510</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,PACKAGE_USAGE_STATS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,VIBRATE,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.2.0</version>
+			<versioncode>5</versioncode>
+			<apkname>com.saggitt.omega.5.apk</apkname>
+			<hash type="sha256">f1a63ba5e89396b1ade214205326ac717b861e2a6b9549f131d1ce049368d114</hash>
+			<size>5718334</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,VIBRATE,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.1.0</version>
+			<versioncode>1</versioncode>
+			<apkname>com.saggitt.omega.1.apk</apkname>
+			<hash type="sha256">897c7161c2f57e82ae6762cc9af8ec3e0ddd184a98cc3394751fb9566a742bcb</hash>
+			<size>5577138</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>7706a28e8c3df5177955af1cd2208c76</sig>
+			<permissions>BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,VIBRATE,com.saggitt.omega.permission.READ_SETTINGS,com.saggitt.omega.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="com.saggitt.omega.alpha">
+		<id>com.saggitt.omega.alpha</id>
+		<added>2022-03-19</added>
+		<lastupdated>2022-03-19</lastupdated>
+		<name>Neo Launcher Alpha</name>
+		<summary>Your powerful libre launcher with a lot of smart features.</summary>
+		<desc>Your powerful libre launcher with a lot of smart features.
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Theming,Launcher,Omega Launcher and Friends (old),Neo Applications</categories>
+		<category>Theming</category>
+		<web></web>
+		<source>https://github.com/otakuhqz/Omega</source>
+		<tracker>https://github.com/otakuhqz/Omega/issues</tracker>
+		<author>Saul Henriquez</author>
+		<email>saul_henriquez@hotmail.com</email>
+		<marketversion></marketversion>
+		<marketvercode>317</marketvercode>
+		<package>
+			<version>0.9.0</version>
+			<versioncode>317</versioncode>
+			<apkname>com.saggitt.omega.alpha.317.apk</apkname>
+			<hash type="sha256">19676cd274f468925f85e5a3d67d5e61e1eeeef1f94f6a137806a41885f13dd8</hash>
+			<size>23827139</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>0976eaf78ba9c09baf866dae089bcb46</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,BROADCAST_CLOSE_SYSTEM_DIALOGS,CALL_PHONE,EXPAND_STATUS_BAR,FOREGROUND_SERVICE,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,ROTATE_SURFACE_FLINGER,SCHEDULE_EXACT_ALARM,SET_WALLPAPER,SET_WALLPAPER_HINTS,STATUS_BAR,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.alarm.permission.SET_ALARM,com.saggitt.omega.alpha.permission.READ_SETTINGS,com.saggitt.omega.alpha.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.9.0</version>
+			<versioncode>315</versioncode>
+			<apkname>com.saggitt.omega.alpha.315.apk</apkname>
+			<hash type="sha256">c647035a0a1cfa137bea7d589a1e8c708f7d57f952f2093a647dc6b825a5cace</hash>
+			<size>25174917</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>0976eaf78ba9c09baf866dae089bcb46</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,BROADCAST_CLOSE_SYSTEM_DIALOGS,CALL_PHONE,EXPAND_STATUS_BAR,FOREGROUND_SERVICE,INTERNET,MANAGE_DEVICE_ADMINS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,ROTATE_SURFACE_FLINGER,SCHEDULE_EXACT_ALARM,SET_WALLPAPER,SET_WALLPAPER_HINTS,STATUS_BAR,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.alarm.permission.SET_ALARM,com.saggitt.omega.alpha.permission.READ_SETTINGS,com.saggitt.omega.alpha.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.9.0-alpha3</version>
+			<versioncode>313</versioncode>
+			<apkname>com.saggitt.omega.alpha.313.apk</apkname>
+			<hash type="sha256">889a3e4377d4b589c2c38e2df2d5136f94cc17ef8fefc82d5c9457c34807787d</hash>
+			<size>25175936</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,BROADCAST_CLOSE_SYSTEM_DIALOGS,CALL_PHONE,EXPAND_STATUS_BAR,FOREGROUND_SERVICE,INTERNET,MANAGE_DEVICE_ADMINS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,ROTATE_SURFACE_FLINGER,SCHEDULE_EXACT_ALARM,SET_WALLPAPER,SET_WALLPAPER_HINTS,STATUS_BAR,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.alarm.permission.SET_ALARM,com.saggitt.omega.alpha.permission.READ_SETTINGS,com.saggitt.omega.alpha.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.9.0-alpha2</version>
+			<versioncode>311</versioncode>
+			<apkname>com.saggitt.omega.alpha.311.apk</apkname>
+			<hash type="sha256">1ebe84b3991242be504ebb6fcb0ff5f5c923fc3480cf702daaa46be0941c74ff</hash>
+			<size>24003539</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,BROADCAST_CLOSE_SYSTEM_DIALOGS,CALL_PHONE,EXPAND_STATUS_BAR,FOREGROUND_SERVICE,INTERNET,MANAGE_DEVICE_ADMINS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,ROTATE_SURFACE_FLINGER,SCHEDULE_EXACT_ALARM,SET_WALLPAPER,SET_WALLPAPER_HINTS,STATUS_BAR,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.saggitt.omega.alpha.permission.READ_SETTINGS,com.saggitt.omega.alpha.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+		<package>
+			<version>0.9.0</version>
+			<versioncode>306</versioncode>
+			<apkname>com.saggitt.omega.alpha.306.apk</apkname>
+			<hash type="sha256">2531caa6224144639fce5984901fe4d1a77d55d94a1771702ec24d1382b9c938</hash>
+			<size>18285152</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,BROADCAST_CLOSE_SYSTEM_DIALOGS,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,EXPAND_STATUS_BAR,INTERNET,MANAGE_ACCESSIBILITY,MANAGE_ACTIVITY_TASKS,MANAGE_DEVICE_ADMINS,MONITOR_INPUT,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_FRAME_BUFFER,READ_SYNC_SETTINGS,RECEIVE_BOOT_COMPLETED,REMOVE_TASKS,REQUEST_DELETE_PACKAGES,ROTATE_SURFACE_FLINGER,SET_ORIENTATION,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,STOP_APP_SWITCHES,SYSTEM_ALERT_WINDOW,SYSTEM_APPLICATION_OVERLAY,USE_BIOMETRIC,VIBRATE,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.saggitt.omega.alpha.permission.HOTSEAT_EDU,com.saggitt.omega.alpha.permission.READ_SETTINGS,com.saggitt.omega.alpha.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.saggitt.omega.dev">
+		<id>com.saggitt.omega.dev</id>
+		<added>2022-03-19</added>
+		<lastupdated>2022-03-19</lastupdated>
+		<name>Neo Launcher Dev</name>
+		<summary>Your powerful libre launcher with a lot of smart features.</summary>
+		<desc>Your powerful libre launcher with a lot of smart features.
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Theming,Launcher,Omega Launcher and Friends (old),Neo Applications</categories>
+		<category>Theming</category>
+		<web></web>
+		<source>https://github.com/otakuhqz/Omega</source>
+		<tracker>https://github.com/otakuhqz/Omega/issues</tracker>
+		<author>Saul Henriquez</author>
+		<email>saul_henriquez@hotmail.com</email>
+		<marketversion></marketversion>
+		<marketvercode>287</marketvercode>
+		<package>
+			<version>0.8.2</version>
+			<versioncode>287</versioncode>
+			<apkname>com.saggitt.omega.dev.287.apk</apkname>
+			<hash type="sha256">62c7e458ebc23a23322efb01de00c8cac7ca6a7d00f92b0be2e3a01413c961d8</hash>
+			<size>16245421</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>0976eaf78ba9c09baf866dae089bcb46</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.dev.permission.HOTSEAT_EDU,com.saggitt.omega.dev.permission.QSB,com.saggitt.omega.dev.permission.READ_SETTINGS,com.saggitt.omega.dev.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.8.1</version>
+			<versioncode>217</versioncode>
+			<apkname>com.saggitt.omega.dev.217.apk</apkname>
+			<hash type="sha256">08f7381aa7ae8afa3f23ee0ee2764384893f62d390536e8bedb0ae7b73cb91e4</hash>
+			<size>15039175</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>0976eaf78ba9c09baf866dae089bcb46</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.dev.permission.HOTSEAT_EDU,com.saggitt.omega.dev.permission.QSB,com.saggitt.omega.dev.permission.READ_SETTINGS,com.saggitt.omega.dev.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.8.1</version>
+			<versioncode>175</versioncode>
+			<apkname>com.saggitt.omega.dev.175.apk</apkname>
+			<hash type="sha256">d538060928875a65cf2dbacdca19200fbd575923f594e5ce5aa5994de8996700</hash>
+			<size>12002770</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>0976eaf78ba9c09baf866dae089bcb46</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.dev.permission.HOTSEAT_EDU,com.saggitt.omega.dev.permission.QSB,com.saggitt.omega.dev.permission.READ_SETTINGS,com.saggitt.omega.dev.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.8.0</version>
+			<versioncode>154</versioncode>
+			<apkname>com.saggitt.omega.dev.154.apk</apkname>
+			<hash type="sha256">062fc0808c52eb5de4c32120ab90894b0a18207a8e910b3fc740fd8a35b02238</hash>
+			<size>11053607</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>fcbb84a05c93a95aab985f339b2a85f1</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.dev.permission.HOTSEAT_EDU,com.saggitt.omega.dev.permission.QSB,com.saggitt.omega.dev.permission.READ_SETTINGS,com.saggitt.omega.dev.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="com.saggitt.omega.neo">
+		<id>com.saggitt.omega.neo</id>
+		<added>2022-03-19</added>
+		<lastupdated>2022-03-19</lastupdated>
+		<name>Neo Launcher Neo</name>
+		<summary>Your powerful libre launcher with a lot of smart features.</summary>
+		<desc>Your powerful libre launcher with a lot of smart features.
+</desc>
+		<license>GPL-3.0-or-later</license>
+		<categories>Theming,Launcher,Omega Launcher and Friends (old),Neo Applications</categories>
+		<category>Theming</category>
+		<web></web>
+		<source>https://github.com/otakuhqz/Omega</source>
+		<tracker>https://github.com/otakuhqz/Omega/issues</tracker>
+		<author>Saul Henriquez</author>
+		<email>saul_henriquez@hotmail.com</email>
+		<marketversion></marketversion>
+		<marketvercode>822</marketvercode>
+		<package>
+			<version>0.8.2-neo2</version>
+			<versioncode>822</versioncode>
+			<apkname>com.saggitt.omega.neo.822.apk</apkname>
+			<hash type="sha256">cefe05d16b6c49148f6ace2f95adb5c99954d1d31b0fabc4375f6c980ce9d53e</hash>
+			<size>16359715</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,SYSTEM_ALERT_WINDOW,USE_BIOMETRIC,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.neo.permission.HOTSEAT_EDU,com.saggitt.omega.neo.permission.QSB,com.saggitt.omega.neo.permission.READ_SETTINGS,com.saggitt.omega.neo.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.8.2-neo1</version>
+			<versioncode>821</versioncode>
+			<apkname>com.saggitt.omega.neo.821.apk</apkname>
+			<hash type="sha256">569a77ed18f55291e78b7f7c7081ed3f51cdf84ac9285aabe3ae5cf7c671b261</hash>
+			<size>16390752</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,SYSTEM_ALERT_WINDOW,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.neo.permission.HOTSEAT_EDU,com.saggitt.omega.neo.permission.QSB,com.saggitt.omega.neo.permission.READ_SETTINGS,com.saggitt.omega.neo.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.8.1-neo6</version>
+			<versioncode>801</versioncode>
+			<apkname>com.saggitt.omega.neo.801.apk</apkname>
+			<hash type="sha256">7c55d90299bce683a40b30115ef956e5eebe5a09b93cb094271e200fbc1879f4</hash>
+			<size>16318937</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BIND_APPWIDGET,BLUETOOTH,BLUETOOTH_ADMIN,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_SYNC_SETTINGS,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,SYSTEM_ALERT_WINDOW,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,WRITE_SYNC_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.neo.permission.HOTSEAT_EDU,com.saggitt.omega.neo.permission.QSB,com.saggitt.omega.neo.permission.READ_SETTINGS,com.saggitt.omega.neo.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.8.0-neo1</version>
+			<versioncode>800</versioncode>
+			<apkname>com.saggitt.omega.neo.800.apk</apkname>
+			<hash type="sha256">758c0108ae2e6d589282fab2d79530ec367f83094f877d4a6662bafbfee317af</hash>
+			<size>11755788</size>
+			<sdkver>26</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_MEDIA_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_EXTERNAL_STORAGE,MANAGE_USERS,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,STATUS_BAR,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.android.launcher.permission.READ_SETTINGS,com.android.launcher.permission.WRITE_SETTINGS,com.google.android.apps.nexuslauncher.permission.READ_SETTINGS,com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.neo.permission.HOTSEAT_EDU,com.saggitt.omega.neo.permission.QSB,com.saggitt.omega.neo.permission.READ_SETTINGS,com.saggitt.omega.neo.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.5.4-neo</version>
+			<versioncode>70</versioncode>
+			<apkname>com.saggitt.omega.neo.70.apk</apkname>
+			<hash type="sha256">220d51a5ef9dcf2d0cd532b00cbd590013d851b2c3ae2fd29eb2d6f468eb78f4</hash>
+			<size>8492254</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>ACCESS_COARSE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,DEVICE_POWER,EXPAND_STATUS_BAR,FORCE_STOP_PACKAGES,INSTALL_SHORTCUT,INTERACT_ACROSS_USERS,INTERNET,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_CALENDAR,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,READ_WALLPAPER_INTERNAL,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WRITE_EXTERNAL_STORAGE,WRITE_SECURE_SETTINGS,WRITE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.neo.permission.QSB,com.saggitt.omega.neo.permission.READ_SETTINGS,com.saggitt.omega.neo.permission.WRITE_SETTINGS,org.pixelexperience.weather.client.READ_WEATHER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>0.4.1-neo</version>
+			<versioncode>34</versioncode>
+			<apkname>com.saggitt.omega.neo.34.apk</apkname>
+			<hash type="sha256">2d3af4f5a9aba1d06d32c2bd27d7ab237e0da33bcc97915ee160d422e6da5a50</hash>
+			<size>7548243</size>
+			<sdkver>25</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-03-19</added>
+			<sig>77abf525c2870f56265706b845f823e4</sig>
+			<permissions>ACCESS_COARSE_LOCATION,BIND_APPWIDGET,CALL_PHONE,CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS,CREATE_USERS,FORCE_STOP_PACKAGES,INTERACT_ACROSS_USERS,MANAGE_DEVICE_ADMINS,MANAGE_USERS,PACKAGE_USAGE_STATS,READ_DEVICE_CONFIG,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REORDER_TASKS,REQUEST_DELETE_PACKAGES,SET_WALLPAPER,SET_WALLPAPER_HINTS,START_TASKS_FROM_RECENTS,VIBRATE,WRITE_SECURE_SETTINGS,com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER,com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET,com.saggitt.omega.neo.permission.READ_SETTINGS,com.saggitt.omega.neo.permission.WRITE_SETTINGS</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
 		</package>
 	</application>
 	<application id="com.netflix.mediaclient">

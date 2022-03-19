@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1647661212000,
+    "timestamp": 1647661611000,
     "version": 20000,
     "name": "NoNayBay - Alternative Repo",
     "icon": "icon.png",
@@ -25,6 +25,117 @@
       "added": 1647625085000,
       "packageName": "com.looker.droidify",
       "lastUpdated": 1647625085000
+    },
+    {
+      "authorEmail": "saul_henriquez@hotmail.com",
+      "authorName": "Saul Henriquez",
+      "categories": [
+        "Theming",
+        "Launcher",
+        "Omega Launcher and Friends (old)",
+        "Neo Applications"
+      ],
+      "suggestedVersionCode": "280",
+      "issueTracker": "https://github.com/otakuhqz/Omega/issues",
+      "license": "GPL-3.0-or-later",
+      "sourceCode": "https://github.com/otakuhqz/Omega",
+      "translation": "https://hosted.weblate.org/projects/omegalauncher",
+      "added": 1647661572000,
+      "packageName": "com.saggitt.omega",
+      "lastUpdated": 1647661587000,
+      "localized": {
+        "en-US": {
+          "description": "Your powerful libre launcher with a lot of smart features.\n",
+          "icon": "icon_z15kux7UZSH_22bRT6GEAJogNo_nvvGi73-VwiLv_qg=.png",
+          "name": "Neo Launcher",
+          "phoneScreenshots": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg",
+            "7.jpg",
+            "8.jpg"
+          ],
+          "summary": "Your powerful libre launcher with a lot of smart features."
+        }
+      }
+    },
+    {
+      "authorEmail": "saul_henriquez@hotmail.com",
+      "authorName": "Saul Henriquez",
+      "categories": [
+        "Theming",
+        "Launcher",
+        "Omega Launcher and Friends (old)",
+        "Neo Applications"
+      ],
+      "suggestedVersionCode": "317",
+      "issueTracker": "https://github.com/otakuhqz/Omega/issues",
+      "license": "GPL-3.0-or-later",
+      "sourceCode": "https://github.com/otakuhqz/Omega",
+      "translation": "https://hosted.weblate.org/projects/omegalauncher",
+      "added": 1647661588000,
+      "packageName": "com.saggitt.omega.alpha",
+      "lastUpdated": 1647661594000,
+      "localized": {
+        "en-US": {
+          "description": "Your powerful libre launcher with a lot of smart features.\n",
+          "name": "Neo Launcher Alpha",
+          "summary": "Your powerful libre launcher with a lot of smart features."
+        }
+      }
+    },
+    {
+      "authorEmail": "saul_henriquez@hotmail.com",
+      "authorName": "Saul Henriquez",
+      "categories": [
+        "Theming",
+        "Launcher",
+        "Omega Launcher and Friends (old)",
+        "Neo Applications"
+      ],
+      "suggestedVersionCode": "287",
+      "issueTracker": "https://github.com/otakuhqz/Omega/issues",
+      "license": "GPL-3.0-or-later",
+      "sourceCode": "https://github.com/otakuhqz/Omega",
+      "translation": "https://hosted.weblate.org/projects/omegalauncher",
+      "added": 1647661595000,
+      "packageName": "com.saggitt.omega.dev",
+      "lastUpdated": 1647661598000,
+      "localized": {
+        "en-US": {
+          "description": "Your powerful libre launcher with a lot of smart features.\n",
+          "name": "Neo Launcher Dev",
+          "summary": "Your powerful libre launcher with a lot of smart features."
+        }
+      }
+    },
+    {
+      "authorEmail": "saul_henriquez@hotmail.com",
+      "authorName": "Saul Henriquez",
+      "categories": [
+        "Theming",
+        "Launcher",
+        "Omega Launcher and Friends (old)",
+        "Neo Applications"
+      ],
+      "suggestedVersionCode": "822",
+      "issueTracker": "https://github.com/otakuhqz/Omega/issues",
+      "license": "GPL-3.0-or-later",
+      "sourceCode": "https://github.com/otakuhqz/Omega",
+      "translation": "https://hosted.weblate.org/projects/omegalauncher",
+      "added": 1647661599000,
+      "packageName": "com.saggitt.omega.neo",
+      "lastUpdated": 1647661606000,
+      "localized": {
+        "en-US": {
+          "description": "Your powerful libre launcher with a lot of smart features.\n",
+          "name": "Neo Launcher Neo",
+          "summary": "Your powerful libre launcher with a lot of smart features."
+        }
+      }
     },
     {
       "authorEmail": "playstore@netflix.com",
@@ -310,6 +421,5518 @@
         ],
         "versionCode": 40188,
         "versionName": "8.22.0 build 10 40188"
+      }
+    ],
+    "com.saggitt.omega": [
+      {
+        "added": 1647661580000,
+        "apkName": "com.saggitt.omega.280.apk",
+        "hash": "a2a6a30931dbc0669031abb77d39dd0ec2ad28b9c1a3c780fc3b063e497fe605",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 12978771,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ]
+        ],
+        "versionCode": 280,
+        "versionName": "0.8.1"
+      },
+      {
+        "added": 1647661577000,
+        "apkName": "com.saggitt.omega.168.apk",
+        "hash": "369c2dcaf2459504634f213f7d849c07ef07b8a1cab2a17b211aa14e2a298c26",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 9805466,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ]
+        ],
+        "versionCode": 168,
+        "versionName": "0.8.0"
+      },
+      {
+        "added": 1647661576000,
+        "apkName": "com.saggitt.omega.118.apk",
+        "hash": "0804015270e0abdc6d85099b159c86b7bb20f3ebbabf28416d4970c8c626a492",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 8071115,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 118,
+        "versionName": "0.7.1"
+      },
+      {
+        "added": 1647661575000,
+        "apkName": "com.saggitt.omega.115.apk",
+        "hash": "b2317ac6c9a60ba2bdc9fc5a0e146347c37a7b9a020054613b35f51c536c6e4c",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 8029968,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 115,
+        "versionName": "0.7.0"
+      },
+      {
+        "added": 1647661574000,
+        "apkName": "com.saggitt.omega.113.apk",
+        "hash": "5bac598839de70181741683ae4fc47defda79d4930df8dcf8b8b8aec0df3eeff",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 7964074,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 113,
+        "versionName": "0.6.3"
+      },
+      {
+        "added": 1647661587000,
+        "apkName": "com.saggitt.omega.98.apk",
+        "hash": "525bdb25f023ef33c0e9d99611c299cc72e46e38d07f71b5be18a9165156b0f9",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 8469855,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 98,
+        "versionName": "0.6.2"
+      },
+      {
+        "added": 1647661586000,
+        "apkName": "com.saggitt.omega.96.apk",
+        "hash": "56eaa172d5857bdb08c909ec16d52ee74bc3d7a6dc09836b7b665b99b766eff9",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 8211773,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 96,
+        "versionName": "0.6.1"
+      },
+      {
+        "added": 1647661585000,
+        "apkName": "com.saggitt.omega.95.apk",
+        "hash": "0c3f4386bbf21052e2f33ce648ab7ea5da328cab05f9b5e83a1d91bfb1a55fc1",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 8207121,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.QSB",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 95,
+        "versionName": "0.6.0"
+      },
+      {
+        "added": 1647661584000,
+        "apkName": "com.saggitt.omega.67.apk",
+        "hash": "fc76feb9c6c81aee87267cb72cbc5c662716b9e32ff6b620f45832fa73085ad7",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 8154770,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 67,
+        "versionName": "0.5.3"
+      },
+      {
+        "added": 1647661582000,
+        "apkName": "com.saggitt.omega.43.apk",
+        "hash": "2b120baa4661f93c15a40c6cd531f12ed2f426e568f6a3b92d944d29a366c284",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 7459642,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 43,
+        "versionName": "0.5.1"
+      },
+      {
+        "added": 1647661581000,
+        "apkName": "com.saggitt.omega.40.apk",
+        "hash": "bbeee9c52492cbb143328faced4fae4d700c72a4712eadd0f4db16cc05dc05b9",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 7451450,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 40,
+        "versionName": "0.5.0"
+      },
+      {
+        "added": 1647661581000,
+        "apkName": "com.saggitt.omega.32.apk",
+        "hash": "74799a8603636ee8498cb8975aeef858466f8743893948491aface074e5d606b",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 8078898,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 32,
+        "versionName": "0.4.0"
+      },
+      {
+        "added": 1647661579000,
+        "apkName": "com.saggitt.omega.25.apk",
+        "hash": "b870fe0a29e9abf7c258194d7ee79ec19fcb7bd09619fe7e9c7d09ace674a171",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 7360241,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 25,
+        "versionName": "0.4.0"
+      },
+      {
+        "added": 1647661578000,
+        "apkName": "com.saggitt.omega.20.apk",
+        "hash": "23fa59fa24a4607a0c24c18535ea82c2c7b2198ca31efe2f7628c8751b49d5d2",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 7219385,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 20,
+        "versionName": "0.3.0"
+      },
+      {
+        "added": 1647661574000,
+        "apkName": "com.saggitt.omega.11.apk",
+        "hash": "1bed007d40a21150dccc6d8c38fe3fc644f68c0befe7f3e140aa17a378fba41c",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 6177154,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ]
+        ],
+        "versionCode": 11,
+        "versionName": "0.2.0"
+      },
+      {
+        "added": 1647661583000,
+        "apkName": "com.saggitt.omega.6.apk",
+        "hash": "d854e7642a989bab79fac0224d8ff5b83351ba6c2bed730c8ffa55054d928e1a",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 5640510,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ]
+        ],
+        "versionCode": 6,
+        "versionName": "0.2.0"
+      },
+      {
+        "added": 1647661583000,
+        "apkName": "com.saggitt.omega.5.apk",
+        "hash": "f1a63ba5e89396b1ade214205326ac717b861e2a6b9549f131d1ce049368d114",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 5718334,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ]
+        ],
+        "versionCode": 5,
+        "versionName": "0.2.0"
+      },
+      {
+        "added": 1647661572000,
+        "apkName": "com.saggitt.omega.1.apk",
+        "hash": "897c7161c2f57e82ae6762cc9af8ec3e0ddd184a98cc3394751fb9566a742bcb",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "7706a28e8c3df5177955af1cd2208c76",
+        "signer": "72d5e71ce7cf9bc32afd59c3cbcb362ef6772740d94ddad44bf8bbbec6755800",
+        "size": 5577138,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "0.1.0"
+      },
+      {
+        "added": 1647661573000,
+        "apkName": "com.saggitt.omega.10.apk",
+        "hash": "010c033a06fef8a5c0cf11122686a3c76d8fa9f61ebcb2acb2fc634aa106e710",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 6309632,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.permission.WRITE_SETTINGS",
+            null
+          ]
+        ],
+        "versionCode": 10,
+        "versionName": "0.2.0"
+      }
+    ],
+    "com.saggitt.omega.alpha": [
+      {
+        "added": 1647661594000,
+        "apkName": "com.saggitt.omega.alpha.317.apk",
+        "hash": "19676cd274f468925f85e5a3d67d5e61e1eeeef1f94f6a137806a41885f13dd8",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.saggitt.omega.alpha",
+        "sig": "0976eaf78ba9c09baf866dae089bcb46",
+        "signer": "3d8387cdd43608d7eca06f07837dfa5dac0a7cf7643d4bd3c626de77c98cbc24",
+        "size": 23827139,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "com.android.alarm.permission.SET_ALARM",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ]
+        ],
+        "versionCode": 317,
+        "versionName": "0.9.0"
+      },
+      {
+        "added": 1647661592000,
+        "apkName": "com.saggitt.omega.alpha.315.apk",
+        "hash": "c647035a0a1cfa137bea7d589a1e8c708f7d57f952f2093a647dc6b825a5cace",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.saggitt.omega.alpha",
+        "sig": "0976eaf78ba9c09baf866dae089bcb46",
+        "signer": "3d8387cdd43608d7eca06f07837dfa5dac0a7cf7643d4bd3c626de77c98cbc24",
+        "size": 25174917,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "com.android.alarm.permission.SET_ALARM",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ]
+        ],
+        "versionCode": 315,
+        "versionName": "0.9.0"
+      },
+      {
+        "added": 1647661591000,
+        "apkName": "com.saggitt.omega.alpha.313.apk",
+        "hash": "889a3e4377d4b589c2c38e2df2d5136f94cc17ef8fefc82d5c9457c34807787d",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.saggitt.omega.alpha",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 25175936,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "com.android.alarm.permission.SET_ALARM",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ]
+        ],
+        "versionCode": 313,
+        "versionName": "0.9.0-alpha3"
+      },
+      {
+        "added": 1647661590000,
+        "apkName": "com.saggitt.omega.alpha.311.apk",
+        "hash": "1ebe84b3991242be504ebb6fcb0ff5f5c923fc3480cf702daaa46be0941c74ff",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.saggitt.omega.alpha",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 24003539,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ]
+        ],
+        "versionCode": 311,
+        "versionName": "0.9.0-alpha2"
+      },
+      {
+        "added": 1647661588000,
+        "apkName": "com.saggitt.omega.alpha.306.apk",
+        "hash": "2531caa6224144639fce5984901fe4d1a77d55d94a1771702ec24d1382b9c938",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.saggitt.omega.alpha",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 18285152,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS",
+            null
+          ],
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.REMOVE_TASKS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACTIVITY_TASKS",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STOP_APP_SWITCHES",
+            null
+          ],
+          [
+            "android.permission.SET_ORIENTATION",
+            null
+          ],
+          [
+            "android.permission.READ_FRAME_BUFFER",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCESSIBILITY",
+            null
+          ],
+          [
+            "android.permission.MONITOR_INPUT",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_APPLICATION_OVERLAY",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.ROTATE_SURFACE_FLINGER",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.alpha.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ]
+        ],
+        "versionCode": 306,
+        "versionName": "0.9.0"
+      }
+    ],
+    "com.saggitt.omega.dev": [
+      {
+        "added": 1647661598000,
+        "apkName": "com.saggitt.omega.dev.287.apk",
+        "hash": "62c7e458ebc23a23322efb01de00c8cac7ca6a7d00f92b0be2e3a01413c961d8",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.dev",
+        "sig": "0976eaf78ba9c09baf866dae089bcb46",
+        "signer": "3d8387cdd43608d7eca06f07837dfa5dac0a7cf7643d4bd3c626de77c98cbc24",
+        "size": 16245421,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ]
+        ],
+        "versionCode": 287,
+        "versionName": "0.8.2"
+      },
+      {
+        "added": 1647661597000,
+        "apkName": "com.saggitt.omega.dev.217.apk",
+        "hash": "08f7381aa7ae8afa3f23ee0ee2764384893f62d390536e8bedb0ae7b73cb91e4",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.dev",
+        "sig": "0976eaf78ba9c09baf866dae089bcb46",
+        "signer": "3d8387cdd43608d7eca06f07837dfa5dac0a7cf7643d4bd3c626de77c98cbc24",
+        "size": 15039175,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ]
+        ],
+        "versionCode": 217,
+        "versionName": "0.8.1"
+      },
+      {
+        "added": 1647661596000,
+        "apkName": "com.saggitt.omega.dev.175.apk",
+        "hash": "d538060928875a65cf2dbacdca19200fbd575923f594e5ce5aa5994de8996700",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.dev",
+        "sig": "0976eaf78ba9c09baf866dae089bcb46",
+        "signer": "3d8387cdd43608d7eca06f07837dfa5dac0a7cf7643d4bd3c626de77c98cbc24",
+        "size": 12002770,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ]
+        ],
+        "versionCode": 175,
+        "versionName": "0.8.1"
+      },
+      {
+        "added": 1647661595000,
+        "apkName": "com.saggitt.omega.dev.154.apk",
+        "hash": "062fc0808c52eb5de4c32120ab90894b0a18207a8e910b3fc740fd8a35b02238",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.dev",
+        "sig": "fcbb84a05c93a95aab985f339b2a85f1",
+        "signer": "5fd31337bd08199cd61f30971cb61038ca5e94645325961c1d6245a0b4ee94ca",
+        "size": 11053607,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.dev.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ]
+        ],
+        "versionCode": 154,
+        "versionName": "0.8.0"
+      }
+    ],
+    "com.saggitt.omega.neo": [
+      {
+        "added": 1647661606000,
+        "apkName": "com.saggitt.omega.neo.822.apk",
+        "hash": "cefe05d16b6c49148f6ace2f95adb5c99954d1d31b0fabc4375f6c980ce9d53e",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.neo",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 16359715,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ]
+        ],
+        "versionCode": 822,
+        "versionName": "0.8.2-neo2"
+      },
+      {
+        "added": 1647661604000,
+        "apkName": "com.saggitt.omega.neo.821.apk",
+        "hash": "569a77ed18f55291e78b7f7c7081ed3f51cdf84ac9285aabe3ae5cf7c671b261",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.neo",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 16390752,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ]
+        ],
+        "versionCode": 821,
+        "versionName": "0.8.2-neo1"
+      },
+      {
+        "added": 1647661603000,
+        "apkName": "com.saggitt.omega.neo.801.apk",
+        "hash": "7c55d90299bce683a40b30115ef956e5eebe5a09b93cb094271e200fbc1879f4",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.neo",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 16318937,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ]
+        ],
+        "versionCode": 801,
+        "versionName": "0.8.1-neo6"
+      },
+      {
+        "added": 1647661601000,
+        "apkName": "com.saggitt.omega.neo.800.apk",
+        "hash": "758c0108ae2e6d589282fab2d79530ec367f83094f877d4a6662bafbfee317af",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.neo",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 11755788,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.HOTSEAT_EDU",
+            null
+          ],
+          [
+            "com.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.google.android.apps.nexuslauncher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ]
+        ],
+        "versionCode": 800,
+        "versionName": "0.8.0-neo1"
+      },
+      {
+        "added": 1647661600000,
+        "apkName": "com.saggitt.omega.neo.70.apk",
+        "hash": "220d51a5ef9dcf2d0cd532b00cbd590013d851b2c3ae2fd29eb2d6f468eb78f4",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.neo",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 8492254,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.QSB",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.EXPAND_STATUS_BAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_CALENDAR",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_WALLPAPER_INTERNAL",
+            null
+          ],
+          [
+            "android.permission.DEVICE_POWER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "org.pixelexperience.weather.client.READ_WEATHER",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 70,
+        "versionName": "0.5.4-neo"
+      },
+      {
+        "added": 1647661599000,
+        "apkName": "com.saggitt.omega.neo.34.apk",
+        "hash": "2d3af4f5a9aba1d06d32c2bd27d7ab237e0da33bcc97915ee160d422e6da5a50",
+        "hashType": "sha256",
+        "minSdkVersion": 25,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.saggitt.omega.neo",
+        "sig": "77abf525c2870f56265706b845f823e4",
+        "signer": "c94f10243c14d57dd69dede61c234bb5e8bb0704d61b45dafe496728ac32f378",
+        "size": 7548243,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.START_TASKS_FROM_RECENTS",
+            null
+          ],
+          [
+            "android.permission.INTERACT_ACROSS_USERS",
+            null
+          ],
+          [
+            "android.permission.CREATE_USERS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_USERS",
+            null
+          ],
+          [
+            "android.permission.FORCE_STOP_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_DEVICE_ADMINS",
+            null
+          ],
+          [
+            "android.permission.WRITE_SECURE_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.wallpaperservcie.permission.SET_WALLPAPER_OFFSET",
+            null
+          ],
+          [
+            "com.huawei.android.thememanager.permission.ACCESS_CHANGE_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.PACKAGE_USAGE_STATS",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER_HINTS",
+            null
+          ],
+          [
+            "android.permission.BIND_APPWIDGET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_DEVICE_CONFIG",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.saggitt.omega.neo.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REORDER_TASKS",
+            null
+          ]
+        ],
+        "versionCode": 34,
+        "versionName": "0.4.1-neo"
       }
     ],
     "com.whatsapp": [
