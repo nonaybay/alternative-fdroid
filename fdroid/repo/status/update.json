@@ -7,7 +7,7 @@
     "--verbose"
   ],
   "disabled": [],
-  "endTimestamp": 1647661723923,
+  "endTimestamp": 1647764166592,
   "failedBuilds": {},
   "noPackages": [
     "com.looker.droidify",
@@ -16,8 +16,9 @@
     "com.saggitt.omega.dev",
     "com.saggitt.omega.neo",
     "com.saggitt.omega",
-    "com.whatsapp"
+    "com.whatsapp",
+    "org.videolan.vlc"
   ],
-  "startTimestamp": 1647672514000,
+  "startTimestamp": 1647774955000,
   "subcommand": "update"
 }
